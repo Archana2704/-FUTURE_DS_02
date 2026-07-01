@@ -1,0 +1,26 @@
+
+CUSTOMER RETENTION & CHURN ANALYSIS
+
+Key Findings:
+
+1. Month-to-Month contracts have highest churn.
+
+2. Customers with shorter tenure are more likely to leave.
+
+3. Electronic Check users show higher churn.
+
+4. Customers with higher monthly charges churn more.
+
+5. Average customer lifetime indicates retention opportunities.
+
+Recommendations:
+
+1. Promote yearly contracts.
+
+2. Improve onboarding process.
+
+3. Offer loyalty rewards.
+
+4. Provide discounts to high-risk customers.
+
+5. Encourage automatic payment methods.
